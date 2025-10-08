@@ -1,6 +1,5 @@
 # Alby media
 Find Alby media assets: logo variations, font, vectors and rasters in this folder.
 
-![image](https://github.com/getAlby/media/assets/16482809/3fa181c2-5f8e-4d3e-918c-b62ba11c8769)
+<img width="2411" height="1001" alt="image" src="https://github.com/user-attachments/assets/5d18f7c7-45e3-4001-94c4-8bfa138dc68d" />
 
-To check our guidelines for colors, typography, Figma files and overall guidance of Alby's design, please visit: https://github.com/getAlby/lightning-browser-extension/wiki/Open-Design 
